@@ -21,3 +21,5 @@ Visite meu site para ver meus projetos e trabalhos: [www.luislobo.com.br](https:
 ## Contato
 - **E-mail**: [contato@luislobo.com.br](mailto:contato@luislobo.com.br)
 - **Telefone**: [**(11) 9 9437 0950**](https://wa.me/5511994370950/)
+
+![](https://raw.githubusercontent.com/luislobo9b/luislobo9b/main/nyan-cat.gif)
