@@ -1,5 +1,4 @@
-# Luis Lobo
-# Desenvolvedor Front-end Sênior & Designer
+# Luis Lobo - Desenvolvedor Front-end Sênior & Designer
 
 ## Sobre mim
 E aí, tudo bem?
