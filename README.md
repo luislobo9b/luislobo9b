@@ -1,4 +1,5 @@
 # Luis Lobo - Desenvolvedor Front-end Sênior & Designer
+# Construindo a internet de amanhã, hoje
 
 ## Sobre mim
 E aí, tudo bem?
