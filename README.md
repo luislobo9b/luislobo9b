@@ -15,7 +15,7 @@ Já trabalhei em diversas empresas como **software house**, **startup**, **agên
 ## Currículo
 Aqui você encontrará informações detalhadas sobre minha trajetória profissional, habilidades e experiências.
 
-Veja meu [currículo aqui](https://www.luislobo.com.br/curriculo-luis-lobo).
+Veja meu [currículo aqui](https://www.luislobo.com.br/curriculo-luis-lobo){:target="_blank"}.
 
 ## Portfólio
 Visite meu site para ver meus projetos e trabalhos: [www.luislobo.com.br](https://www.luislobo.com.br/)
