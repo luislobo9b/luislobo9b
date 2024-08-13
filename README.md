@@ -1,5 +1,5 @@
 # Luis Lobo - Desenvolvedor Front-end Sênior & Designer
-*$\color{#ff8000}\textbf{Construindo a internet de amanhã, hoje}$*
+$\color{#ff8000}\textit{Construindo a internet de amanhã, hoje}$
 
 ## Sobre mim
 E aí, tudo bem?
