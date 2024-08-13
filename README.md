@@ -2,8 +2,7 @@
 
 ## Sobre mim
 E aí, tudo bem?
-Tenho **9 anos de experiência** na área e sou **formado em Design Gráfico**. Meus poderes são transformar cafeína em código e encontrar bugs antes mesmo deles existirem 😅.
-Já trabalhei em diversas empresas como **software house**, **startup**, **agência** e **e-commerces**. Tenho experiência em equipes **multidisciplinares** e como **freelancer**.
+Tenho **9 anos de experiência** na área e sou **formado em Design Gráfico**. Já trabalhei em diversas empresas como **software house**, **startup**, **agência** e **e-commerces**. Tenho experiência em equipes **multidisciplinares** e como **freelancer**. Meus poderes são transformar cafeína em código e encontrar bugs antes mesmo deles existirem 😅.
 
 ## Soft-skills
 *Comunicativo, Flexível, Engajado, Comprometido, Proativo, Detalhista, Organizado, Detalhista*
