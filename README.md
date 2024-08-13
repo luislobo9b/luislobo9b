@@ -13,7 +13,7 @@ Tenho **9 anos de experiência** na área e sou **formado em Design Gráfico**. 
 ## Currículo
 Aqui você encontrará informações detalhadas sobre minha trajetória profissional, habilidades e experiências.
 
-Veja meu [currículo aqui](https://www.luislobo.com.br/curriculo-luis-lobo)
+[Veja meu currículo aqui](https://www.luislobo.com.br/curriculo-luis-lobo)
 
 ## Portfólio
 Visite meu site para ver meus projetos e trabalhos: [www.luislobo.com.br](https://www.luislobo.com.br/)
