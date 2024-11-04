@@ -2,9 +2,7 @@
 
 ## Sobre mim
 E aí, tudo bem?
-Tenho **9 anos de experiência** na área e sou **formado em Design Gráfico**. Já trabalhei em diversas empresas como **software house**, **startup**, **agência** e **e-commerces**. Tenho experiência em equipes **multidisciplinares** e como **freelancer**. Meus poderes são transformar cafeína em código e encontrar bugs antes mesmo deles existirem 😅.
-
-Participei da criação e/ou gestão de quase 30 sites e utilizei mais de 50 bibliotecas front-end diversas.
+Tenho **9 anos de experiência** na área e sou **formado em Design Gráfico**. Já trabalhei em diversas empresas como **software house**, **startup**, **agência** e **e-commerces**. Participei da criação e/ou gestão de quase **30 sites** e utilizei mais de **50 bibliotecas** front-end diversas. Tenho experiência em equipes **multidisciplinares** e como **freelancer**. Meus poderes são transformar cafeína em código e encontrar bugs antes mesmo deles existirem 😅.
 
 ## Soft-skills
 ***Comunicativo, Flexível, Engajado, Comprometido, Proativo, Detalhista, Organizado***
